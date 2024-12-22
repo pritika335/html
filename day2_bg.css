@@ -1,0 +1,9 @@
+body{
+    /* background-image: url("image/image.png");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-color: cover;
+    background-position: right bottom; */
+    background-color: #575757 url("image/image.png") no-repeat right top fixed;
+}
+

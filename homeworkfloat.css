@@ -1,0 +1,111 @@
+/* General Reset */
+body, h3, p, a {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    overflow: hidden; 
+  }
+  
+  .logo {
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    float: right;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 16px;
+  }
+  
+  
+  .hero {
+    background-image: url('https://picsum.photos/200/300');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+   
+  }
+ 
+  
+  
+  .why-us {
+    padding: 20px;
+    background-color: #f9f9f9;
+  
+    
+  
+  }
+  
+  .box {
+    float: left;
+    width: 22%; 
+    margin-right: 3%;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    text-align: center;
+    box-sizing: border-box;
+   
+  }
+  
+  .box:last-child {
+    margin-right: 0;
+  }
+  
+  
+  .gallery {
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  .gallery-item {
+    float: left;
+    width: 22%;
+    margin-right: 3%;
+    margin-bottom: 20px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  .gallery-item img {
+    max-width: 100%;
+    display: block;
+    border: 1px solid #ccc;
+  }
+  
+  .gallery-item:last-child {
+    margin-right: 0;
+  }
+  
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+  }
+  

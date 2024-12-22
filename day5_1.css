@@ -1,0 +1,29 @@
+/* img{
+   float:left;
+   margin-right: 20px;
+} */
+ .container{
+    border: 2px solid red;
+ }
+.box{
+    height: 100px;
+    width: 100px;
+    margin:20px;
+    float:left;
+}
+.red{
+background-color: red;
+}
+.blue{
+    background-color: orangered;
+
+}
+.green{
+    background-color: yellow;
+}
+.clear{
+clear:both;
+}
+/* img{
+    float:right;
+} */

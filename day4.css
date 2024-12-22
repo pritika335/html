@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html {
+    scroll-behavior: smooth;
+  }
+.container{
+    width: 100%;
+    margin: 0 auto;
+ }    
+ nav ul{
+    background-color:aqua;
+    list-style: none;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+ }
+ nav ul li{
+    display: inline-block;
+    background-color:aqua;
+    height: 30px;
+ }
+#Home{
+  border: 5px dotted purple;
+    background-color: darkblue;
+    margin: 50px,50px,50px,50px;
+    padding: 15px
+}
+#Contact{
+    border:5px dotted blue;
+    background-color: pink;
+   margin: 50px,50px,50px,50px;
+    padding: 15px
+}
+#About{
+    border:5px dotted green;
+    background-color: yellow;
+   margin: 50px,50px,50px,50px;
+    padding: 15px
+}
+ #Services{
+    border:5px dotted black;
+    background-color: orange;
+   margin: 50px,50px,50px,50px;
+    padding: 15px
+ }

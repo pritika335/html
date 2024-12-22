@@ -1,0 +1,10 @@
+.box1{
+background-color: lawngreen;
+width: 50%;
+float: left;
+}
+.box2{
+    background-color: aqua;
+    width: 50%;
+    float: right;
+}
